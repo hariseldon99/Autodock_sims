@@ -38,7 +38,7 @@
 AMDOCK: DOCKING_PROGRAM AutoDock Vina
 AMDOCK: PROJECT         --------------------------------------------------------
 AMDOCK: PROJECT_NAME    MMP2-Rolipram
-AMDOCK: WORKING_DIR     /home/daneel/gitrepos/Autodock_sims/MMP2-Rolipram/MMP2-Rolipram
+AMDOCK: WORKING_DIR     /home/daneel/gitrepos/Autodock_sims/MMP2-Rolipram
 AMDOCK: INPUT           --------------------------------------------------------
 AMDOCK: MODE            SIMPLE
 AMDOCK: TARGET          1ck7_clean

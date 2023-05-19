@@ -3,7 +3,7 @@
 2023-05-09 17:25:05,430 INFO:main.py:242:print_splash_screen:Please cite:  Dolinsky TJ, et al.  PDB2PQR: expanding and upgrading automated preparation of biomolecular structures for molecular simulations. Nucleic Acids Res 35 W522-W525 (2007).
 2023-05-09 17:25:05,430 INFO:main.py:759:main_driver:Checking and transforming input arguments.
 2023-05-09 17:25:05,431 INFO:main.py:763:main_driver:Loading topology files.
-2023-05-09 17:25:05,483 INFO:main.py:765:main_driver:Loading molecule: /home/daneel/gitrepos/Autodock_sims/MMP2-Rolipram/MMP2-Rolipram/input/1ck7_clean.pdb
+2023-05-09 17:25:05,483 INFO:main.py:765:main_driver:Loading molecule: /home/daneel/gitrepos/Autodock_sims/MMP2-Rolipram/input/1ck7_clean.pdb
 2023-05-09 17:25:05,512 INFO:main.py:768:main_driver:Dropping water from structure.
 2023-05-09 17:25:05,515 INFO:main.py:770:main_driver:Setting up molecule.
 2023-05-09 17:25:05,544 INFO:main.py:408:setup_molecule:Created biomolecule object with 619 residues and 4930 atoms.
